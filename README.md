@@ -1,4 +1,3 @@
-# Shift-Rotation
 # Shift–Rotation wafer 绝对面形复现
 
 来源：Su et al., *Absolute surface figure testing by shift-rotation method using Zernike polynomials*, Optics Letters 37(15), 3198–3200 (2012)，DOI 10.1364/OL.37.003198。原始论文位于上一级目录 `ol.37.003198.pdf`。
