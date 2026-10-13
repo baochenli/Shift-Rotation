@@ -1,0 +1,384 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./ShiftRotation_derivation.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/ctexart.cls
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg)
+ (d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
+ef))
+Document Class: ctexart 2022/07/14 v2.5.10 Chinese adapter for class article (C
+TEX)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/ctexhook.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/ctexpatch.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/fix-cm.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/ts1enc.def))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/config/ctexopts.cfg)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/size12.clo))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdft
+ex.def
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/iftex/ifpdf.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.st
+y) (d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJK.enc))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/ctexspa.def))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg))
+
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chin
+ese-article.def
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.c
+fg)) (d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/ctex-cs4size.clo)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-wi
+ndows.def))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/config/ctex.cfg)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/tools/bm.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.
+sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+ (d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestr
+ing.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/url/url.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)
+) (d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilechec
+k.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounte
+r.sty)))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+(./ShiftRotation_derivation.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
+ty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+)) (./ShiftRotation_derivation.out) (./ShiftRotation_derivation.out)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/fd/c70rm.fd)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(./ShiftRotation_derivation.toc)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-wind
+ows.tex{d:/texlive/2023/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.m
+ap}{UGBK.sfd}{Unicode.sfd}) [1] [2] [3] [4] [5] [6] [7] [8] [9 <./simulation/va
+lidation.png (PNG copy)>] [10] (./ShiftRotation_derivation.aux)
+
+Package rerunfilecheck Warning: File `ShiftRotation_derivation.out' has changed
+.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
+imsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows
+/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:
+/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
+.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Font
+s/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wind
+ows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
+sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
+onts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/W
+indows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.t
+tf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/
+simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Window
+s/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c
+:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhe
+i.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fon
+ts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Win
+dows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf
+><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/si
+mhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/
+Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/
+Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.
+ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts
+/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windo
+ws/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><
+c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
+un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
+nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
+ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.tt
+c><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
+imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
+/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
+/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
+.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
+s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wind
+ows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/sim
+hei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
+onts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/W
+indows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.t
+tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
+simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
+s/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c
+:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsu
+n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
+ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><d:/texlive/2023/texlive/2023/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2023/texlive/2023/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2023/texlive/202
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2023/texlive
+/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2023/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2023
+/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2
+023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texliv
+e/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><d:/t
+exlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d
+:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.
+pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+6.pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr7.pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr8.pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmss8.pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy7.pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy8.pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmti12.pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmtt10.pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmtt12.pfb>
+Output written on ShiftRotation_derivation.pdf (10 pages, 989705 bytes).
+Transcript written on ShiftRotation_derivation.log.
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./ShiftRotation_derivation.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/ctexart.cls
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg)
+ (d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
+ef))
+Document Class: ctexart 2022/07/14 v2.5.10 Chinese adapter for class article (C
+TEX)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/ctexhook.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/ctexpatch.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/fix-cm.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/ts1enc.def))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/config/ctexopts.cfg)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/size12.clo))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdft
+ex.def
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/iftex/ifpdf.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.st
+y) (d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJK.enc))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/ctexspa.def))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg))
+
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chin
+ese-article.def
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.c
+fg)) (d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/ctex-cs4size.clo)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-wi
+ndows.def))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/config/ctex.cfg)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/tools/bm.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.
+sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+ (d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestr
+ing.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/url/url.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)
+) (d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilechec
+k.sty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounte
+r.sty)))
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+(./ShiftRotation_derivation.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
+ty
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+)) (./ShiftRotation_derivation.out) (./ShiftRotation_derivation.out)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/ctex/fd/c70rm.fd)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(./ShiftRotation_derivation.toc)
+(d:/texlive/2023/texlive/2023/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-wind
+ows.tex{d:/texlive/2023/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.m
+ap}{UGBK.sfd}{Unicode.sfd}) [1] [2] [3] [4] [5] [6] [7] [8] [9 <./simulation/va
+lidation.png (PNG copy)>] [10] (./ShiftRotation_derivation.aux) )<c:/Windows/Fo
+nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
+ndows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.tt
+f><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/s
+imhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
+/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:
+/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
+.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
+s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wind
+ows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/sim
+hei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/F
+onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/W
+indows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.t
+tf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/
+simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Window
+s/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c
+:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhe
+i.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fon
+ts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Win
+dows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf
+><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/si
+mhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/
+Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/
+Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.
+ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts
+/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windo
+ws/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><
+c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
+un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
+nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
+ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.tt
+c><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
+imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
+/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
+/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
+.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
+s/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Wind
+ows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
+sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
+onts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/W
+indows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.t
+tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
+simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
+s/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c
+:/Windows/Fonts/simsun.ttc><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2023/texlive/2023/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2023/texlive/2023/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2023/texlive/2023/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2023/texlive/2023/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2023/texlive/2023
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2023/texlive/2
+023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><d:/texlive/2023/texl
+ive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2023/t
+exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/202
+3/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/
+2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/texliv
+e/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/texl
+ive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/te
+xlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><d:
+/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.
+pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y8.pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmti12.pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmtt10.pfb><d:/texlive/2023/texlive/2023/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmtt12.pfb>
+Output written on ShiftRotation_derivation.pdf (10 pages, 989212 bytes).
+Transcript written on ShiftRotation_derivation.log.

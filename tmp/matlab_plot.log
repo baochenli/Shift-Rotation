@@ -1,0 +1,15 @@
+[警告: 执行为类 matlab.graphics.axis.colorspace.MapColorSpace 定义的事件 MarkedDirty 的侦听程序回调时出现错误:
+错误使用 matlab.graphics.illustration.ColorBar/MarkDirty
+尝试在更新遍历期间修改树。
+
+出错 matlab.graphics.illustration.ColorBar/attachAxesListeners
+
+出错 matlab.graphics.illustration.ColorBar/attachAxesListeners>@(h,e)updateLimits(h,hObj)
+
+出错 matlab.graphics.illustration.ColorBar/get.Label
+
+出错 plot_ShiftRotation (第 45 行)
+    cb=colorbar(ax); cb.Label.String='高度 (nm)';] 
+[> 位置：matlab.graphics.illustration/ColorBar/get.Label
+位置: plot_ShiftRotation (第 45 行)] 
+Saved and verified: F:\Chronicle\2026\论文复现\code\simulation\figures\ShiftRotation_surface_maps.fig

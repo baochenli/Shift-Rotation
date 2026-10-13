@@ -1,0 +1,26 @@
+      polynomialErrorRMS: 1.4966e-23
+       streamingVsDirect: 2.2642e-23
+          ioMaskErrorRMS: 9.3165e-24
+          paper9ErrorRMS: 1.1033e-23
+    gaugeAlignedErrorRMS: 1.1358e-23
+         basis81ErrorRMS: 6.2681e-24
+        basis81Condition: 37.4831
+         noise81ErrorRMS: 8.0597e-11
+      noise81ResidualRMS: 1.4075e-10
+
+All ShiftRotation tests passed.
+           simulationOnly: 1
+                 gridSize: [875 875]
+                        K: 81
+              shiftPixels: [-82.8729 -82.8729]
+              rotationDeg: 1
+              noiseStd_nm: 0.1000
+       errorRMSAligned_nm: 0.0051
+           errorRMSRaw_nm: 0.0051
+           residualRMS_nm: 0.1414
+            surfaceRMS_nm: 1.1150
+                     rank: 89
+               systemSize: [1655053 89]
+    scaledConditionNumber: 37.3141
+                  seconds: 38.3859
+

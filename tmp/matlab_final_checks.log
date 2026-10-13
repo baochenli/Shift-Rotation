@@ -1,0 +1,27 @@
+
+demo_ShiftRotation.m
+
+fun_ShiftRotation.m
+
+run_experiment.m
+
+sr_make_simulation.m
+         id: 'MSNU'
+    message: '此处之前隐藏了一条代码分析器消息，但该消息不再产生。'
+        fix: 1
+       line: 58
+     column: [30 40]
+
+
+sr_read_xyz.m
+
+sr_zernike.m
+
+test_ShiftRotation.m
+         id: 'NOCOMMA'
+    message: '不必要的额外逗号。'
+        fix: 1
+       line: 42
+     column: [8 8]
+
+Full-grid saved result checks passed.

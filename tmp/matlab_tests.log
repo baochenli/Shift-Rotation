@@ -1,0 +1,26 @@
+      polynomialErrorRMS: 9.0249e-24
+       streamingVsDirect: 1.3493e-23
+          ioMaskErrorRMS: 1.4529e-23
+          paper9ErrorRMS: 6.4866e-24
+    gaugeAlignedErrorRMS: 7.9911e-24
+         basis81ErrorRMS: 1.2598e-23
+        basis81Condition: 37.4831
+         noise81ErrorRMS: 8.0678e-11
+      noise81ResidualRMS: 1.4073e-10
+
+All ShiftRotation tests passed.
+
+ans = 
+
+  包含以下字段的 struct:
+
+      polynomialErrorRMS: 9.0249e-24
+       streamingVsDirect: 1.3493e-23
+          ioMaskErrorRMS: 1.4529e-23
+          paper9ErrorRMS: 6.4866e-24
+    gaugeAlignedErrorRMS: 7.9911e-24
+         basis81ErrorRMS: 1.2598e-23
+        basis81Condition: 37.4831
+         noise81ErrorRMS: 8.0678e-11
+      noise81ResidualRMS: 1.4073e-10
+
